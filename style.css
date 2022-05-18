@@ -133,6 +133,11 @@ p {
 /* BTN/BG
 -------------------------------------------------- */
 
+.btn-primary {
+    border-radius: 0px;
+    border-color: #8e312f
+}
+
 .btn-default {
     background-color: #8e312f;
     color: #ffffff;
@@ -141,7 +146,6 @@ p {
     font-size: 20px;
     width: 300px;
     padding: 5px;
-    margin: auto;
 }
 
 .btn-danger {
