@@ -12,13 +12,16 @@ body {
 }
 
 h3 {
-    font-family: ironstrike-bold;
+    font-family: roboto;
     margin-bottom: -2rem
+}
+h2 {
+    font-family: roboto;
 }
 
 p {
     color: #000000;
-    font-family: ironstrike;
+    font-family: roboto;
     font-weight: 300;
     line-height: 1.5
 }
@@ -131,12 +134,12 @@ p {
 -------------------------------------------------- */
 
 .btn-default {
-    background-color: #00ff00;
-    color: #00ff00;
-    border-color: #00ff00;
+    background-color: #8e312f;
+    color: #ffffff;
+    border-color: #8e312f;
     font-size: xx-large;
     font-size: 20px;
-    width: 200px;
+    width: 300px;
     padding: 5px;
     margin: auto;
 }
@@ -157,9 +160,9 @@ p {
 .btn-danger:active,
 .btn-danger.active,
 .open .dropdown-toggle.btn-danger {
-    background-color: #00ff00;
-    color: #00ff00;
-    border-color: #00ff00;
+    background-color: #b33c3a;
+    color: #b33c3a;
+    border-color: #b33c3a;
 }
 
 .btn-default:hover,
@@ -167,9 +170,9 @@ p {
 .btn-default:active,
 .btn-default.active,
 .open .dropdown-toggle.btn-default {
-    background-color: #22ca22;
-    color: #22ca22;
-    border-color: #22ca22;
+    background-color: #b33c3a81;
+    color: #eebebe;
+    border-color: #b33c3a81;
 }
 
 
